@@ -1,7 +1,6 @@
 language: python
 
 python:
-    - 2.7
     - 3.2
     - 3.3
     - 3.4
@@ -20,7 +19,6 @@ script:
 #   lines above!
 #
 notifications:
-  email: true
 
 # Some other koans (see runner/sensei.py or "ls koans" to see the light):
 #
